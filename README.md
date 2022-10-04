@@ -22,8 +22,9 @@ Speaking of reminders, the color of each time block is dynamic and will change d
 
 Give it a go here: 
 
-https://jonrushing.github.io/Challenge-3-password-generator/
+https://jonrushing.github.io/Challenge-5-Work-Day-Scheduler/
 
 Fell free to clone the repo and take a closer look at the code.
+You'll need a program like VSCode to edit what I have for yourself.
 
-https://github.com/jonrushing/Challenge-3-password-generator.git
+https://github.com/jonrushing/Challenge-5-Work-Day-Scheduler.git

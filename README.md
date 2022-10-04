@@ -17,7 +17,7 @@ Speaking of reminders, the color of each time block is dynamic and will change d
 
 
 
-![](assets/work%20scheduler%22.png
+![](assets/work%20scheduler%202.png)
 ## Try it out!
 
 Give it a go here: 
